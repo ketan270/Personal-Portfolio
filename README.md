@@ -1,4 +1,4 @@
-# vCard - Personal portfolio
+# Personal portfolio
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
 [![Twitter Follow](https://img.shields.io/twitter/follow/KETANSHARMA2005?style=social)](https://twitter.com/intent/follow?screen_name=KETANSHARMA2005)
